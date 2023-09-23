@@ -11,6 +11,7 @@ b. or disclosing to a relevant government agency without profit
 7. Follows local laws to the best of their ability
 8. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
 
+* The purpose of this document is: How does a policymaker recognize a researcher as opposed to a criminal? It’s someone who abides by the international code of conduct. It must work at an international level. 
 * The number of days to wait before disclosure is based on two things; an average of the lengths of time published by organizations such as Google’s Project Zero, US CISA, and vulnerability reporting mechanisms for such companies as Splunk, Symantec, Master Lock, and more - and second, what would be commonly seen as a reasonable waiting time amongst cybersecurity researchers and vulnerability owners (at least according to their documentation).
 
 TODO: fixes on max length, cadence, options for responsive/nonresponsive - demands def of company not acting in good faith as well which is already in doc
