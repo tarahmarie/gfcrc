@@ -1,4 +1,6 @@
-# A good faith vulnerability researcher is someone who:
+# How to recognize a good faith cybersecurity researcher as opposed to a computer criminal
+
+## A good faith vulnerability researcher is someone who:
 
 1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to a vulnerability owner or to the public
     
@@ -42,24 +44,14 @@
 
     b. (add a few more)
 
-* The purpose of this document is: How does a policymaker recognize a researcher as opposed to a criminal? It’s someone who abides by the international code of conduct. It must work at an international level.
+### Definitions & Assumptions
 
+* Critical Infrastructure: impacts to physical and digital infrastructures that society relies on; e.g. water and wastewater / electric / oil and gas / telecommunications / finance / health / government, sectors that rely on Industrial Control Systems (ICS) and SCADA systems, common third party / supply chain software and applications
 
-* We define "good faith" as "having honest or sincere intentions" to abide by the communications they have established with vulnerability owners and who understand the impact of their actions on the public while trying to not harm people.
-* Critical infrastructure definition:
-"System and assets, whether physical or virtual, so vital to the U.S. that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters." Source: https://csrc.nist.gov/glossary/term/critical_infrastructure#:~:text=Definitions%3A,any%20combination%20of%20those%20matters
-
+* Good Faith: "having honest or sincere intentions" to abide by the communications they have established with vulnerability owners and who understand the impact of their actions on the public while trying to not harm people.
+  
 * Escrow partner: a government or private organization that can mediate between a researcher and a vulnerability owner, and has the ability to shield the researcher's identity as well as balance the need for a public response to critical infrastructure vulnerabiities and other vulnerabilities.
 
 * Vulnerability owner: whoever owns the system in which the vulnerability has been found. May be a government entity, a private company, or other organization or person.
 
-- impacts to physical and digital infrastructures that society relies on; e.g. water and wastewater / electric / oil and gas / telecommunications / finance / health / government, sectors that rely on Industrial Control Systems (ICS) and SCADA systems, common third party / supply chain software and applications
-
-
-- Case studies: 
-  
-* The number of days to wait before disclosure is based on two things; an average of the lengths of time published by organizations such as Google’s Project Zero, US CISA, and vulnerability reporting mechanisms for such companies as Splunk, Symantec, Master Lock, and more - and second, what would be commonly seen as a reasonable waiting time amongst cybersecurity researchers and vulnerability owners (at least according to their documentation).
-
-* For lines 11/12, switch. Depending on severity, should release to relevant government agency first before public
-* Concerned about Line 10 overall. There should be a push for vendors to compensate good faith researchers regardless of outcome.
-* 
+* Days before disclosure: The number of days to wait before disclosure is based on two things; an average of the lengths of time published by organizations such as Google’s Project Zero, US CISA, and vulnerability reporting mechanisms for such companies as Splunk, Symantec, Master Lock, and more - and second, what would be commonly seen as a reasonable waiting time amongst cybersecurity researchers and vulnerability owners (at least according to their documentation).
