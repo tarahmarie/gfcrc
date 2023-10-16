@@ -1,5 +1,3 @@
-# We define "good faith" as "having honest or sincere intentions".
-
 # A good faith vulnerability researcher is someone who:
 
 1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to an organization or to the public
@@ -45,7 +43,9 @@
     b. (add a few more)
 
 * The purpose of this document is: How does a policymaker recognize a researcher as opposed to a criminal? It’s someone who abides by the international code of conduct. It must work at an international level.
-  
+
+
+* We define "good faith" as "having honest or sincere intentions" to abide by the communications they have established with vulnerability owners and who understand the impact of their actions on the public while trying to not harm people.
 * Critical infrastructure definition:
 "System and assets, whether physical or virtual, so vital to the U.S. that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters." Source: https://csrc.nist.gov/glossary/term/critical_infrastructure#:~:text=Definitions%3A,any%20combination%20of%20those%20matters
 
