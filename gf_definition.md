@@ -40,9 +40,11 @@
    
 ### Instances where good faith vulnerability research disclosures have advanced public safety and security:
 
-    a. "Will Your Airliner Get Hacked? Meet the people who are making sure it won’t." Source:                    https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/
+    a. "Will Your Airliner Get Hacked? Meet the people who are making sure it won’t." Source: https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/
 
-    b. (add a few more)
+    b. "BadAlloc vulnerability affects BlackBerry QNX Real Time Operating System" Source: https://www.securitymagazine.com/articles/95888-badalloc-vulnerability-affects-blackberry-qnx-real-time-operating-system
+
+    c. "CISA platform helps agencies uncover more than 1,000 cyber vulnerabilities" Source: https://federalnewsnetwork.com/cybersecurity/2023/08/cisa-platform-helps-agencies-uncover-more-than-1000-cyber-vulnerabilities/ 
 
 ### Definitions & Assumptions
 
