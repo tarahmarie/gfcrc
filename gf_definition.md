@@ -16,27 +16,27 @@
 
    c. 180 days to publicly disclose a physical vulnerability (e.g. one found in a physical lock or the          firmware/hardware of an electronic access control system)
 
-7. In the event of no response from a vulnerability owner during the waiting period, the good faith vulnerability researcher:
+1. In the event of no response from a vulnerability owner during the waiting period, the good faith vulnerability researcher:
 
     a. should disclose immediately to an escrow partner if it is a critical infrastructure vulnerability, and disclosure should be as close in time as possible of notification to the vulnerability owner
 
      b. may disclose an IT/OT or physcial vulnerability to government before public disclosure, as part         of good faith security research practice
    
-7. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
+1. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
 
      a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner
    
-9. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
+1. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
-10. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of three choices:
+1. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of three choices:
     
     a. publicly disclosing the vulnerability without intention of profit
     
-    b. or disclosing to a relevant escrow partner for assistance in disclosure without intention of           profit
+    b. or disclosing to a relevant escrow partner for assistance in disclosure without intention of profit
 
-   c. or publicly disclosing the vulnerability without intention of profit, and is publicly or privately acknowledged by the escrow partner
+    c. or publicly disclosing the vulnerability without intention of profit, and is publicly or privately acknowledged by the escrow partner
    
-11. Instances where good faith vulnerability research disclosures have advanced public safety and security:
+### Instances where good faith vulnerability research disclosures have advanced public safety and security:
 
     a. "Will Your Airliner Get Hacked? Meet the people who are making sure it won’t." Source:                    https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/
 
