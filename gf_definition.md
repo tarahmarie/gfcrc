@@ -26,7 +26,7 @@
    
 7. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
 
-     a. Does not disclose a company-reported vulnerability before the agreed-upon deadline established in         prior communications 
+     a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner
    
 9. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
@@ -50,6 +50,8 @@
 "System and assets, whether physical or virtual, so vital to the U.S. that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters." Source: https://csrc.nist.gov/glossary/term/critical_infrastructure#:~:text=Definitions%3A,any%20combination%20of%20those%20matters
 
 * Escrow partner: a government or private organization that can mediate between a researcher and a vulnerability owner, and has the ability to shield the researcher's identity as well as balance the need for a public response to critical infrastructure vulnerabiities and other vulnerabilities.
+
+* Vulnerability owner: whoever owns the system in which the vulnerability has been found. May be a government entity, a private company, or other organization or person.
 
 - impacts to physical and digital infrastructures that society relies on; e.g. water and wastewater / electric / oil and gas / telecommunications / finance / health / government, sectors that rely on Industrial Control Systems (ICS) and SCADA systems, common third party / supply chain software and applications
 
