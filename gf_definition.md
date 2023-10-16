@@ -1,6 +1,6 @@
 # A good faith vulnerability researcher is someone who:
 
-1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to an organization or to the public
+1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to a vulnerability owner or to the public
     
 1. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
     
