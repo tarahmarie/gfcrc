@@ -31,15 +31,17 @@
    
 9. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
-10. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of two choices:
+10. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of three choices:
     
     a. publicly disclosing the vulnerability without intention of profit
     
     b. or disclosing to a relevant escrow partner for assistance in disclosure without intention of           profit
 
-11. If a good faith vulnerability security researcher is interested in
+   c. or publicly disclosing the vulnerability without intention of profit, and is publicly or privately acknowledged by the escrow partner
+
+   d. or publicly disclosing the vulnerability if the relevant escrow partner has a bug bounty program
    
-12. Instances where good faith vulnerability research disclosures have advanced public safety and security:
+11. Instances where good faith vulnerability research disclosures have advanced public safety and security:
 
     a. "Will Your Airliner Get Hacked? Meet the people who are making sure it won’t." Source:                    https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/
 
