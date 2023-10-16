@@ -9,7 +9,7 @@
     
 3. Designs and carries out their pursuit of vulnerabilities in such a manner as to avoid, as best as possible, any intentional harm to individuals or the public
    
-4. Follows local laws to the best of their ability and knowledge
+4. Follows local laws to the best of their ability and knowledge, including reporting and paying taxes on their income to any relevant taxation agencies
     
 5. If a vulnerability owner has been nonresponsive, uses the common best practice of waiting at least:
    
