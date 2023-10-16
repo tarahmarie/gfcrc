@@ -3,15 +3,16 @@
 # A good faith vulnerability researcher is someone who:
 
 1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to an organization or to the public
+   
    a. A vulnerability security researcher "stays informed on the current, new and emerging technology, proposed standards, and threat actors that could be used to exploit application and system vulnerabilities," and "often creating proof of concept exploits as well" (source: https://cybersn.com/role/security-researcher/ and https://infosec-jobs.com/insights/security-engineer-vs-security-researcher/) 
     
-2. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
+3. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
     
-3. Designs and carries out their pursuit of vulnerabilities in such a manner as to avoid, as best as possible, any intentional harm to individuals or the public
+4. Designs and carries out their pursuit of vulnerabilities in such a manner as to avoid, as best as possible, any intentional harm to individuals or the public
    
-4. Follows local laws to the best of their ability and knowledge, including reporting and paying taxes on their income to any relevant taxation agencies
+5. Follows local laws to the best of their ability and knowledge, including reporting and paying taxes on their income to any relevant taxation agencies
     
-5. If a vulnerability owner has been nonresponsive, uses the common best practice of waiting at least:
+6. If a vulnerability owner has been nonresponsive, uses the common best practice of waiting at least:
    
    a. 30 days to publicly disclose a vulnerability that could harm human health or life in critical infrastructure
 
