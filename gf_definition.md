@@ -38,8 +38,6 @@
     b. or disclosing to a relevant escrow partner for assistance in disclosure without intention of           profit
 
    c. or publicly disclosing the vulnerability without intention of profit, and is publicly or privately acknowledged by the escrow partner
-
-   d. or publicly disclosing the vulnerability if the relevant escrow partner has a bug bounty program
    
 11. Instances where good faith vulnerability research disclosures have advanced public safety and security:
 
