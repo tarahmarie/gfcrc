@@ -22,7 +22,7 @@
 
     a. should disclose immediately to an escrow partner if it is a critical infrastructure vulnerability, and disclosure should be as close in time as possible of notification to the vulnerability owner
 
-     b. may disclose an IT/OT or physcial vulnerability to government before public disclosure, as part         of good faith security research practice
+     b. may disclose an IT/OT or physical vulnerability to government before public disclosure, as part         of good faith security research practice
    
 1. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
 
