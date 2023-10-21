@@ -1,4 +1,4 @@
-### In July of 2022, a room of distinguished information security researchers collaborated on best practices in cybersecurity vulnerability reporting. These documents and definitions come from their work.
+### In July of 2022, a room of distinguished information security researchers collaborated on best practices in cybersecurity vulnerability reporting. These documents and definitions begin from their work and are continued and improved upon by other distinguished members of the information security community.
 
 ## Original Paris Workshop Participants
 
