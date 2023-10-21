@@ -10,4 +10,4 @@
 
 ## Information security researchers who have contributed to these documents and definitions
 
-1. 
+1. Rob "ErrataRob" Graham
