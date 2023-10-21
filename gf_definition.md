@@ -1,8 +1,19 @@
 # How to recognize a good faith cybersecurity researcher as opposed to a computer criminal
 
-## A good faith vulnerability researcher is someone who:
+## A security researcher is someone who:
 
-1. Examines application and system vulnerabilities, conducts research on emerging threats and vulnerabilities, provides mitigation recommendations, and reports their findings to a vulnerability owner or to the public
+1. Finds a vulnerability in the course of other non-security research and development, such as a programmer who finds a bug in open-source code, for whom this may be the only vulnerability they ever find
+
+2. Conducts general cybersecurity research, such as emerging threats and hacker activity, but whose primary job isn't finding vulnerabilities
+
+3. Hunts for vulnerabilities as a major or primary focus of their job
+
+
+## Good faith behavior includes:
+
+1. Reports their findings to a vulnerability owner or to the public
+  
+1. Goes above and beyond mere discovery, including providing information for reproducing and mitigation the vulnerability
     
 1. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
     
