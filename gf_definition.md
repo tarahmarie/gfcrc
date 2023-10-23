@@ -11,15 +11,17 @@
 
 ## Good faith behavior includes:
 
-1. Reports their findings to a vulnerability owner or to the public
+1. Reports their findings to a vulnerability owner or to the public.
   
-1. Goes above and beyond mere discovery, including providing information for reproducing and mitigation the vulnerability
+1. Goes above and beyond mere discovery, including providing information for reproducing and mitigation the vulnerability.
     
-1. Does not intentionally damage property in the pursuit of vulnerabilities (viewing, copying, or disseminating data is not damage)
+1. Does not intentionally damage property in the pursuit of discovering or validating vulnerabilities (viewing, copying, or disseminating data is not damage).
+
+   a. Publicly disclosing data that is reasonably likely to harm the public interest and that was intended to be protected prior to the vulnerability being discovered, is not considered good faith behavior (even if all other tenets in this document are followed).
     
-1. Designs and carries out their pursuit of vulnerabilities in such a manner as to avoid, as best as possible, any intentional harm to individuals or the public
+1. Designs and carries out their pursuit of vulnerabilities in such a manner as to avoid, as best as possible, any intentional harm to individuals or the public.
    
-1. Follows local laws to the best of their ability and knowledge, including reporting and paying taxes on their income to any relevant taxation agencies
+1. Follows local laws to the best of their ability and knowledge, including reporting and paying taxes on their income to any relevant taxation agencies.
     
 1. If a vulnerability owner has been nonresponsive, uses the common best practice of waiting at least:
    
@@ -37,7 +39,7 @@
    
 1. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
 
-     a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner
+     a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner so long as the vulnerability owner continues to engage with the researcher
    
 1. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
