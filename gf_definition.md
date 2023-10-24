@@ -35,13 +35,13 @@
 
     a. should disclose immediately to an escrow partner if it is a critical infrastructure vulnerability, and disclosure should be as close in time as possible of notification to the vulnerability owner.
 
-     b. may disclose an IT/OT or physical vulnerability to government before public disclosure, as part         of good faith security research practice.
+     b. may disclose an IT/OT or physical vulnerability to escrow partner before public disclosure, as part         of good faith security research practice.
    
 1. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
 
      a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner so long as the vulnerability owner continues to engage with the researcher.
    
-1. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant government agency, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
+1. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant escrow partner, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
 1. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of three choices:
     
