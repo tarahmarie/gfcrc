@@ -13,7 +13,7 @@
 
 1. Reports their findings to a vulnerability owner or to the public.
   
-1. Goes above and beyond mere discovery, including providing information for reproducing and mitigation the vulnerability.
+1. Goes above and beyond mere discovery, including providing information for reproducing and mitigating the vulnerability.
     
 1. Does not intentionally damage property in the pursuit of discovering or validating vulnerabilities (viewing, copying, or disseminating data is not damage).
 
@@ -33,23 +33,23 @@
 
 1. In the event of no response from a vulnerability owner during the waiting period, the good faith vulnerability researcher:
 
-    a. should disclose immediately to an escrow partner if it is a critical infrastructure vulnerability, and disclosure should be as close in time as possible of notification to the vulnerability owner.
+    a. should disclose immediately to an escrow partner if it is a critical infrastructure vulnerability, and disclosure should be as close in time as possible to notification of the vulnerability owner.
 
-     b. may disclose an IT/OT or physical vulnerability to escrow partner before public disclosure, as part         of good faith security research practice.
+     b. may disclose an IT/OT or physical vulnerability to an escrow partner before public disclosure, as part of good faith security research practice.
    
-1. In the event of a response that establishes a line of communications from a vulnerability, the good faith vulnerability researcher:
+1. In the event of a response that establishes a line of communication from a vulnerability, the good faith vulnerability researcher:
 
-     a. Does not disclose a reported vulnerability before the agreed-upon deadline established in         prior communications with the vulnerability owner so long as the vulnerability owner continues to engage with the researcher.
+     a. Does not disclose a reported vulnerability before the agreed-upon deadline established in prior communications with the vulnerability owner so long as the vulnerability owner continues to engage with the researcher.
    
 1. (When the situation arises) Prioritizes the safety and health of others over financial gain and immediately reports to a relevant escrow partner, if an ICS/SCADA vulnerability found that is or could be actively harming people physically.
     
 1. Does not withhold the details of a vulnerability in demand for payment from a vulnerability owner.  If a vulnerability owner refuses to pay or does not wish disclosure to them, makes one of three choices:
     
-    a. publicly disclosing the vulnerability without intention of profit.
+    a. publicly disclosing the vulnerability without intention of profit,
     
-    b. or disclosing to a relevant escrow partner for assistance in disclosure without intention of profit.
+    b. disclosing to a relevant escrow partner for assistance in disclosure without intention of profit,
 
-    c. or publicly disclosing the vulnerability without intention of profit, and is publicly or privately acknowledged by the escrow partner.
+    c. or publicly disclosing the vulnerability without intention of profit, as publicly or privately acknowledged by the escrow partner.
    
 ### Instances where good faith vulnerability research disclosures have advanced public safety and security:
 
@@ -61,12 +61,12 @@
 
 ### Definitions & Assumptions
 
-* Critical Infrastructure: impacts to physical and digital infrastructures that society relies on; e.g. water and wastewater / electric / oil and gas / telecommunications / finance / health / government, sectors that rely on Industrial Control Systems (ICS) and SCADA systems, common third party / supply chain software and applications.
+* Critical Infrastructure: impacts the physical and digital infrastructure that society relies on, e.g.: water and wastewater; electricity; oil and gas; telecommunications; finance; health; government; sectors that rely on Industrial Control Systems (ICS) and SCADA systems, common third party / supply chain software and applications.
 
-* Good Faith: "having honest or sincere intentions" to abide by the communications they have established with vulnerability owners and who understand the impact of their actions on the public while trying to not harm people.
+* Good Faith: "having honest or sincere intentions" to abide by the communications they have established with vulnerability owners and who understand the impact of their actions on the public while trying to prevent harm.
   
 * Escrow partner: a government or private organization that can mediate between a researcher and a vulnerability owner, and has the ability to shield the researcher's identity as well as balance the need for a public response to critical infrastructure vulnerabiities and other vulnerabilities.
 
 * Vulnerability owner: whoever owns the system in which the vulnerability has been found. May be a government entity, a private company, or other organization or person.
 
-* Days before disclosure: The number of days to wait before disclosure is based on two things; an average of the lengths of time published by organizations such as Google’s Project Zero, US CISA, and vulnerability reporting mechanisms for such companies as Splunk, Symantec, Master Lock, and more - and second, what would be commonly seen as a reasonable waiting time amongst cybersecurity researchers and vulnerability owners (at least according to their documentation).
+* Days before disclosure: The number of days to wait before disclosure is based on two things: first, an average of the lengths of time published by organizations such as Google’s Project Zero, US CISA, and vulnerability reporting mechanisms for such companies as Splunk, Symantec, Master Lock, and more; and, second, what would be commonly seen as a reasonable waiting time amongst cybersecurity researchers and vulnerability owners (at least according to their documentation).
