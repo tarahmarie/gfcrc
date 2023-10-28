@@ -7,8 +7,10 @@
 1. Kwadwo Burgee
 1. Ayan Islam
 1. Jake Williams
+2. Mari Galloway
 1. Additional distinguished information security researchers who wish to remain anonymous
 
 ## Information security researchers who have contributed to these documents and definitions
 
 1. Rob "ErrataRob" Graham
+2. Meredith Patterson
