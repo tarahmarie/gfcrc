@@ -8,4 +8,5 @@ This repository will eventually contain multiple translations of the definition 
 If you have questions, you can email Tarah at t@tarah.org. I will tell you right now that my answer will be: 'tell me your opinions in the form of a PR that be transparently reviewed' :D
 
 Links,
-* [Good Faith definitions](gf_definition.md)
+* [Good Faith Cybersecurity Researcher definition - ENGLISH](gf_definition.md)
+* [Contributors] (contributors.md)
