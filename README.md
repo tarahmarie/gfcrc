@@ -6,3 +6,6 @@ Anyone is welcome to contribute in a positive, transparent way. Err on the side 
 This repository will eventually contain multiple translations of the definition of a good faith cybersecurity researcher and best practices for vulnerability owners, so avoid idiom, long or complex words, and difficult to follow grammatical constructions in your sentences.
 
 If you have questions, you can email Tarah at t@tarah.org. I will tell you right now that my answer will be: 'tell me your opinions in the form of a PR that be transparently reviewed' :D
+
+Links,
+* [Good Faith definitions](gf_definition.md)
