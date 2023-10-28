@@ -9,4 +9,4 @@ If you have questions, you can email Tarah at t@tarah.org. I will tell you right
 
 Links,
 * [Good Faith Cybersecurity Researcher definition - ENGLISH](gf_definition.md)
-* [Contributors] (contributors.md)
+* [Contributors](contributors.md)
