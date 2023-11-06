@@ -12,3 +12,4 @@ This will never be perfect, but our job as a community here is rough consensus a
 Links,
 * [Good Faith Cybersecurity Researcher definition - ENGLISH](gf_definition.md)
 * [Contributors](contributors.md)
+* [The Good Faith Cybersecurity Researchers Coalition](https://gfcrc.org/) 
